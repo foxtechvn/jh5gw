@@ -1,0 +1,39 @@
+{
+  "generator-jhipster": {
+    "applicationType": "gateway",
+    "gitCompany": "",
+    "baseName": "Gateway",
+    "packageName": "com.ft",
+    "packageFolder": "com/ft",
+    "serverPort": 8080,
+    "serviceDiscoveryType": "consul",
+    "authenticationType": "jwt",
+    "uaaBaseName": "../uaa",
+    "cacheProvider": "hazelcast",
+    "enableHibernateCache": false,
+    "websocket": "spring-websocket",
+    "databaseType": "mongodb",
+    "devDatabaseType": "mongodb",
+    "prodDatabaseType": "mongodb",
+    "searchEngine": false,
+    "enableSwaggerCodegen": false,
+    "messageBroker": false,
+    "buildTool": "maven",
+    "useSass": false,
+    "clientPackageManager": "npm",
+    "testFrameworks": [],
+    "enableTranslation": true,
+    "nativeLanguage": "en",
+    "languages": [
+      "en",
+      "vi"
+    ],
+    "clientFramework": "angularX",
+    "jhiPrefix": "jhi",
+    "jhipsterVersion": "5.6.1",
+    "jwtSecretKey": "Mjk4MjYxZmRlNGI2NmIxYWJhZmIyOWU1YzkyZTliYjc1NmFiNjM1YmFhYzUxOTA3ODUxM2ViM2Q1OTE2ZmZlY2E5MjkzZDcyMDFkOGU4NWEwMjQ4Y2MwOWI2NWRkZmY0YWVkZjI0NmU4ZTM1MTk5OWRhNTNmYzcwZDA0ZjdkYmI="
+  },
+  "git-provider": "GitHub",
+  "git-company": "foxtechvn",
+  "repository-name": "jh5gw"
+}
